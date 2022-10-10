@@ -14,3 +14,4 @@ Artificial Intelligence, Reinforcement Learning, Deep Reinforcement Learning, Ne
 Networks, DQN, DDQN, Policy Gradient, PPO, A3C, Video Games, Super Mario Bros.
 
 ![Running average(3)](https://user-images.githubusercontent.com/98480492/194908002-e8fa8dd1-687d-45da-8b41-f27999ab4186.png)
+![tempatismos](https://user-images.githubusercontent.com/98480492/194908142-f1468848-1269-4282-923a-b45012e7acab.png)
