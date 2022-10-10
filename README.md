@@ -13,5 +13,5 @@ and compares Q-learning algorithms DQN,DDQN and policy optimization algorithms
 Artificial Intelligence, Reinforcement Learning, Deep Reinforcement Learning, Neural
 Networks, DQN, DDQN, Policy Gradient, PPO, A3C, Video Games, Super Mario Bros.
 
-![alt text] (https://github.com/IoannisVon/diplvmatikh/blob/main/Running%20average(3).png)
-![alt text] (https://github.com/IoannisVon/diplvmatikh/blob/main/termatismos.png)
+![alt text] (https://github.com/IoannisVon/diplvmatikh/blob/main/Running%20average(3).png?raw=true)
+![alt text] (https://github.com/IoannisVon/diplvmatikh/blob/main/termatismos.png?raw=true)
